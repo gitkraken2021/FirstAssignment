@@ -2,6 +2,9 @@
 
 Assignment No : 1
 
+
+ Use GIT BASH 
+
  1. Clone the Repository FirstAssignment using git clone command
  2. Create a directory with **your** **name** in Local WorkSpace
  
