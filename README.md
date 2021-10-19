@@ -32,5 +32,9 @@ Assignment No : 1
      6. git push
      7. git status 
      8. git log
+     9. git diff
          
- 7.  Also observe, the number of commits of the README.md file        
+ 7.  Also observe, the number of commits of the README.md file    
+ 8.  Before pushing the changes to Staging envt, check the difference of the file content with 
+     git diff <filename>    
+ 
