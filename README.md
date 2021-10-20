@@ -15,7 +15,7 @@ Assignment No : 1
       
       c. Add the directory to the Staging Environment (use git add <filename/directory> / git add ./ git add <filenames> / git add filename with regular_expression/wildcard )
       
-      c. Commit the directory to Local Repo with **proper description** (git commit -m "Give proper description")
+      c. Commit the directory to Local Repo with **proper description** (git commit -m "Added/Updated file for FirstAssignment")
      
  4.  Pull the changes from the Remote  (git pull origin master)
      **Note** : There will be multiple users pushing their files/directory to Remote
