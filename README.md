@@ -10,6 +10,7 @@ Assignment No : 1
  3. Create a directory with **your** **name** (ex:FirstAssignment/anand) in Local WorkSpace
  
       a. Add a test file into the directory (ex: FirstAssignment/anand/testfile.txt)
+         **Note :** Empty directory can't be pushed to remote
       
       b. Check git status
       
