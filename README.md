@@ -6,22 +6,27 @@ Assignment No : 1
  Use GIT BASH 
 
  1. Clone the Repository FirstAssignment using git clone command
- 2. Create a directory with **your** **name** in Local WorkSpace
+ 2. Change directory to the Repo in local (cd FirstAssignment)
+ 3. Create a directory with **your** **name** (ex:FirstAssignment/anand) in Local WorkSpace
  
-      a. Add the directory to the Staging Environment
+      a. Add a test file into the directory (ex: FirstAssignment/anand/testfile.txt)
       
-      b. Commit the directory to Local Repo with **proper description**
+      b. Check git status
+      
+      c. Add the directory to the Staging Environment (use git add <filename/directory> / git add ./ git add <filenames> / git add filename with regular_expression/wildcard )
+      
+      c. Commit the directory to Local Repo with **proper description** (git commit -m "Give proper description")
      
- 3.  Pull the changes from the Remote  
+ 4.  Pull the changes from the Remote  (git pull origin master)
      **Note** : There will be multiple users pushing their files/directory to Remote
      
- 4.  Push local changes to Remote Repository (First Assignment)
+ 5.  Push local changes to Remote Repository ( git push )
  
- 5.  Add a simple text file (.txt) and push the code to your remote directory     
  
  6.  Create a file (PyGitTest.py), add some executable statements and push the script/file under FirstAssignment/
      
-     **Note:** This file is accessed by multiple users
+     **Note:** PyGitTest.py is placed directly under FirstAssignment/PyGitTest.py
+               This file is accessed by multiple users
                Don't edit or update others statements, instead add a new statement 
                You might end up with conflict issues, if you haven't properly pulled/merged
      Push your changes to Remote 
