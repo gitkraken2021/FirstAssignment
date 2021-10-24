@@ -1,2 +1,4 @@
 print("Hello Python")
-print("second line")
+
+print("i am new to python ")
+
