@@ -1,0 +1,27 @@
+Second Assignment 10/30/2021
+
+1. Configure your name or email globally and test it
+   Commands Used : git config, git add/commit, git status, git log
+2. Create a new workspace, initialize git and clone FirstAssignment repo
+3. dev_branch is our develop branch; I have sync dev_branch with master
+   a. Pull the code from dev_branch into your local branch
+4. Create a file name PythonProject.py (Anyone push the Initial Python class)
+   a. Other collaborators/users/developers add a functionality to this python class
+   b. Merge your changes to the dev_branch
+   c. Any conflict arises resolve it manually
+   
+   Commands to explore : git diff, git reset, git stash, git add, git commit, 
+                         git pull, git push, git fetch, git branch, git checkout, git log
+   
+   
+   ----------------------------------------------------------------------------------------(master) # No access for code merge
+   |---------------------------------------------------------------------------------------(dev_branch) # Sync with master
+            |--------(checkout your branches and develop the code) -----|
+            git fetch/git pull                                      git merge/push 
+            
+            
+Note : The code should be an executable code
+5. Integrate IDE with git 
+
+Take the 45 mins Practice Test
+https://www.vskills.in/practice/git-version-mock-test
